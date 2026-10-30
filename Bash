@@ -1,0 +1,13 @@
+git init
+
+git add index.html
+git commit -m "Milestone 1: Flexbox navigation"
+
+git add index.html
+git commit -m "Milestone 2: CSS Grid section"
+
+git add index.html
+git commit -m "Milestone 3: Responsive media queries"
+
+git add index.html
+git commit -m "Milestone 4: Transitions and reduced motion"
